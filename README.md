@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Guillaume Ongenae, but you may also call me
-Yome, ~~Gui-Gui~~, Guy, Yug, Gyom, Gijom, Giyom, Gion, Giyum, G
+Yome, ~~Gui-Gui~~, Gui, Guy, Yug, Gyom, Gijom, Giyom, Gion, Giyum, G
 or not.
 
 I'm a developer, from Normandy, France,
@@ -21,7 +21,7 @@ My current focus are:
 👨‍💻 - A few tools I created around coding and tooling:
 
 - [dotfiles](https://github.com/g-ongenae/dotfiles): My install, used on multiple machines, configure shell, apps and configs
-- [nestoa](ttps://github.com/algoan/nestoa): Parse a NestJS app and get its OpenAPI & AsyncAPI in ms (see [benchmark](https://github.com/algoan/nestjs-openapi-generation-benchmark))
+- [nestoa](https://github.com/algoan/nestoa): Parse a NestJS app and get its OpenAPI & AsyncAPI in ms (see [benchmark](https://github.com/algoan/nestjs-openapi-generation-benchmark))
 - [insomnia-plugin-jsonc](https://github.com/g-ongenae/insomnia-plugin-jsonc): Allow comments in JSON on Insomnia - [Install it!](https://insomnia.rest/plugins/insomnia-plugin-jsonc)
 - [Mermaid JSDoc Viewer](https://github.com/g-ongenae/mermaid-jsdoc-viewer): Visualize MermaidJS diagrams inside JSDoc for VSCode
 - [Mermaid JSDoc Viewer for GitHub](https://github.com/g-ongenae/mermaid-jsdoc-viewer-for-github): Visualize MermaidJS diagrams in code on GitHub
