@@ -27,7 +27,7 @@ My current focus are:
 - [Mermaid JSDoc Viewer for GitHub](https://github.com/g-ongenae/mermaid-jsdoc-viewer-for-github): Visualize MermaidJS diagrams in code on GitHub
 - [Firefox Memory Guard](https://github.com/g-ongenae/firefox-memory-guard): Get informed when a page gets too heavy on Firefox
 - [parrot](https://github.com/g-ongenae/parrot): A web extension to summarize and read out loud webpages
-- [PR Review Collector](https://github.com/g-ongenae/pr-review-collector): A web extension to pass feedbacks from reviewers to AI
+- _(archived)_ [PR Review Collector](https://github.com/g-ongenae/pr-review-collector): A web extension to pass feedbacks from reviewers to AI
 - [duck](https://github.com/g-ongenae/duck): A token free, non artificial, non intelligence - [Try it!](https://g-ongenae.github.io/duck)
 - [unduck](https://github.com/g-ongenae/unduck): Fork of [unduck](https://github.com/T3-Content/unduck) with easy config - [Use it!](https://g-ongenae.github.io/unduck)
 
